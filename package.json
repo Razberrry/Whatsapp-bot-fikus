@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-botto-xre",
+  "name": "Whatsapp-bot-fikus",
   "version": "1.0.0",
   "description": "Well....",
   "main": "dist/index.js",
@@ -23,7 +23,6 @@
     "whatsapp",
     "stickers",
     "whatsapp-stickers",
-    "anime",
     "whatsapp-bot",
     "whatsapp-anime-bot",
     "whatsapp-botto"
