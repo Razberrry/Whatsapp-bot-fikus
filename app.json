@@ -40,6 +40,9 @@
       "required": false
     }
   },
+  "engines": {
+    "node": ">=12"
+},
   "buildpacks": [
     {
       "url": "heroku/nodejs"
